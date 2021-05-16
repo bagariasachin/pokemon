@@ -36,7 +36,7 @@ function App() {
     
     <div className="App">
     <div className='titlescreen'>
-     <a href="/"><h1>Pokemon Card hello</h1></a>  
+     <a href="/"><h1>Pokemon Card </h1></a>  
      <input type='text'
      onChange={(event)=>{
      setPokemonName(event.target.value);
